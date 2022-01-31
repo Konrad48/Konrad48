@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konrad Janecki
 - 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Python
+- 🌱 In my projects I use Python, PHP, JS and HTML
 
 <!---
 Konrad48/Konrad48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
