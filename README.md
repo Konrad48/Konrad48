@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 In my projects I code in these languages: Python, PHP, JS and HTML
 - 💻 I have used technologies sucha as: Stripe, ReCaptcha, Google Maps API
-- ⭐ I have succesully developed a web app for collecting customer reviews on Google: resurvey.pl
+- ⭐ I have succesully developed a web app for collecting customer reviews on Google: <a href="https://resurvey.pl">resurvey.pl</a>
 - ⭐ I have created a program in Python for estimating risks in sailplane take-offs
 
 <!---
