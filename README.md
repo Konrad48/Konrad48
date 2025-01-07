@@ -5,7 +5,7 @@
 - ⭐ I have succesully developed a chrome extension for automating tasks on LinkedIn: <a href="https://selliplus.com/">selliplus.com</a>
 - ⭐ I have created a program in Python for estimating risks in sailplane take-offs: <a href="https://www.youtube.com/watch?v=Yky1hlz4Aqs">Video demo</a>
 
-Checkout my portfolio and blog: [https://konrad48.github.io/developerFolio/](https://konrad48.github.io/konrad48-dev-blog/)
+[Checkout my portfolio and blog here](https://konrad48.github.io/konrad48-dev-blog/)
 
 <!---
 Konrad48/Konrad48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
