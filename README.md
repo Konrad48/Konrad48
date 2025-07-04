@@ -2,8 +2,8 @@
 - 👀 I’m a full stack web developer
 - 🌱 In my projects I code in these languages: PHP, TS/JS, Python
 - 💻 I have used technologies sucha as: React, Vue.js, Node.js, Laravel
-- ⭐ I have succesully developed a chrome extension for automating tasks on LinkedIn: <a href="https://selliplus.com/">selliplus.com</a>
-- ⭐ I have created a program in Python for estimating risks in sailplane take-offs: <a href="https://www.youtube.com/watch?v=Yky1hlz4Aqs">Video demo</a>
+- ⭐ My chrome extension for automating tasks on LinkedIn: <a href="https://selliplus.com/">selliplus.com</a>
+- ⭐ Estimating risks in sailplane take-offs with help of python simulation script: <a href="https://www.youtube.com/watch?v=Yky1hlz4Aqs">Video demo</a>
 
 [Checkout my portfolio and blog here](https://konrad48.github.io/konrad48-dev-blog/)
 
