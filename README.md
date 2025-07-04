@@ -1,4 +1,5 @@
 Chrome extension for automating tasks on LinkedIn: <a href="https://selliplus.com/">selliplus.com</a>
+
 Estimating risks in sailplane take-offs with help of python simulation script: <a href="https://www.youtube.com/watch?v=Yky1hlz4Aqs">Video demo</a>
 
 [Checkout my portfolio and blog here](https://konrad48.github.io/konrad48-dev-blog/)
